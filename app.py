@@ -59,7 +59,7 @@ st.markdown(CSS, unsafe_allow_html=True)
 # ----------------------- DATA -----------------------
 NAME = "Kavya Lakshmi Marri"
 TAGLINE = "Aspiring AIML Engineer • Python & Java Developer • Problem Solver"
-PHONE = "+91 6300180559"
+PHONE = "+91 "
 EMAIL = "marrikavya90@gmail.com"
 LINKEDIN = "https://www.linkedin.com/in/kavya-reddy-btech/"
 GITHUB = "https://github.com/Kavya-marri"
